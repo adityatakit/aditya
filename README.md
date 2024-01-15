@@ -1,2 +1,3 @@
 # aditya
-i am present in class
+my name is aditya
+i am from nagpur
